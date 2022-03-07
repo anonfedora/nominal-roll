@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome KadData
 
-You can use the [editor on GitHub](https://github.com/anonfedora/nominal-roll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+The online questionnaire is hosted here.
+The paperless project is a way to better the distribution of questionnaires using an online medium. Unlike the paper question, this questionnaire carries constraints to questions as needed.
+  - A digital signature is needed to access the questions which comes in form of a yes or no      question.
+  - Questions cannot be left blank
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
